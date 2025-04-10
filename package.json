@@ -1,0 +1,20 @@
+{
+  "name": "stakelab",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Springbock99/StakeLab#readme",
+  "bugs": {
+    "url": "https://github.com/Springbock99/StakeLab/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Springbock99/StakeLab.git"
+  },
+  "license": "ISC",
+  "author": "Kent Daneel",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  }
+}
